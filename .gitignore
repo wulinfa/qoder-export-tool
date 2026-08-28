@@ -1,0 +1,12 @@
+# 运行时目录：导出产物、临时缓存、按需下载的 Node 运行时
+export/
+tmp/
+node/
+node_modules/
+
+# 操作系统 / 编辑器垃圾文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~

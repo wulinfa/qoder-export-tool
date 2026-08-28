@@ -1,0 +1,2763 @@
+{
+  "_source": "aicoding-seti-icon-theme.json (Qoder aicoding-file-icons extension)",
+  "_固化时间": "2026-08-25T09:56:11.788Z",
+  "file": "_default",
+  "iconDefinitions": {
+    "_R_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E001",
+      "fontColor": "#5A90EE"
+    },
+    "_R": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E001",
+      "fontColor": "#89B4FF"
+    },
+    "_argdown_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E003",
+      "fontColor": "#5A90EE"
+    },
+    "_argdown": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E003",
+      "fontColor": "#89B4FF"
+    },
+    "_asm_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E004",
+      "fontColor": "#EA6D72"
+    },
+    "_asm": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E004",
+      "fontColor": "#FD7378"
+    },
+    "_audio_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E005",
+      "fontColor": "#D17AF3"
+    },
+    "_audio": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E005",
+      "fontColor": "#D593EF"
+    },
+    "_babel_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E006",
+      "fontColor": "#EFB041"
+    },
+    "_babel": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E006",
+      "fontColor": "#EEC857"
+    },
+    "_bazel_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E007",
+      "fontColor": "#3CC079"
+    },
+    "_bazel": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E007",
+      "fontColor": "#94E98F"
+    },
+    "_bazel_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E007",
+      "fontColor": "#3CC079"
+    },
+    "_bazel_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E007",
+      "fontColor": "#94E98F"
+    },
+    "_bicep_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E008",
+      "fontColor": "#5A90EE"
+    },
+    "_bicep": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E008",
+      "fontColor": "#89B4FF"
+    },
+    "_bower_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E009",
+      "fontColor": "#F28D3A"
+    },
+    "_bower": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E009",
+      "fontColor": "#FE9A5C"
+    },
+    "_bsl_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00A",
+      "fontColor": "#EA6D72"
+    },
+    "_bsl": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00A",
+      "fontColor": "#FD7378"
+    },
+    "_c_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00C",
+      "fontColor": "#5A90EE"
+    },
+    "_c": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00C",
+      "fontColor": "#89B4FF"
+    },
+    "_c-sharp_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00B",
+      "fontColor": "#5A90EE"
+    },
+    "_c-sharp": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00B",
+      "fontColor": "#89B4FF"
+    },
+    "_c_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00C",
+      "fontColor": "#5A90EE"
+    },
+    "_c_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00C",
+      "fontColor": "#89B4FF"
+    },
+    "_c_2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00C",
+      "fontColor": "#5A90EE"
+    },
+    "_c_2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00C",
+      "fontColor": "#89B4FF"
+    },
+    "_cake_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00D",
+      "fontColor": "#EA6D72"
+    },
+    "_cake": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00D",
+      "fontColor": "#FD7378"
+    },
+    "_cake_php_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00E",
+      "fontColor": "#EA6D72"
+    },
+    "_cake_php": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E00E",
+      "fontColor": "#FD7378"
+    },
+    "_clock_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E095",
+      "fontColor": "#498ba7"
+    },
+    "_clock": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E095"
+    },
+    "_clock_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E095"
+    },
+    "_clock_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E095"
+    },
+    "_clojure_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E013",
+      "fontColor": "#3CC079"
+    },
+    "_clojure": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E013",
+      "fontColor": "#94E98F"
+    },
+    "_clojure_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E013",
+      "fontColor": "#3CC079"
+    },
+    "_clojure_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E013",
+      "fontColor": "#94E98F"
+    },
+    "_code-climate_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E014",
+      "fontColor": "#7fae42"
+    },
+    "_code-climate": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E014",
+      "fontColor": "#94E98F"
+    },
+    "_code-search_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E015",
+      "fontColor": "#9068b0"
+    },
+    "_code-search": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E015"
+    },
+    "_coffee_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E017",
+      "fontColor": "#EA6D72"
+    },
+    "_coffee": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E017",
+      "fontColor": "#F8CA3E"
+    },
+    "_coldfusion_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E018",
+      "fontColor": "#5A90EE"
+    },
+    "_coldfusion": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E018",
+      "fontColor": "#89B4FF"
+    },
+    "_config_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E019",
+      "fontColor": "#9E9999"
+    },
+    "_config": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E019",
+      "fontColor": "#757575"
+    },
+    "_cpp_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01A",
+      "fontColor": "#5A90EE"
+    },
+    "_cpp": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01A",
+      "fontColor": "#89B4FF"
+    },
+    "_cpp_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01A",
+      "fontColor": "#5A90EE"
+    },
+    "_cpp_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01A",
+      "fontColor": "#89B4FF"
+    },
+    "_cpp_2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01A",
+      "fontColor": "#5A90EE"
+    },
+    "_cpp_2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01A",
+      "fontColor": "#89B4FF"
+    },
+    "_crystal_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01B",
+      "fontColor": "#bfc2c1"
+    },
+    "_crystal": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01B"
+    },
+    "_crystal_embedded_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01C",
+      "fontColor": "#bfc2c1"
+    },
+    "_crystal_embedded": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01C"
+    },
+    "_css_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01D",
+      "fontColor": "#5A90EE"
+    },
+    "_css": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01D",
+      "fontColor": "#89B4FF"
+    },
+    "_csv_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01E",
+      "fontColor": "#3CC079"
+    },
+    "_csv": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01E",
+      "fontColor": "#94E98F"
+    },
+    "_cu_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01F",
+      "fontColor": "#18CED1"
+    },
+    "_cu": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01F",
+      "fontColor": "#79D5D7"
+    },
+    "_cu_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01F",
+      "fontColor": "#18CED1"
+    },
+    "_cu_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E01F",
+      "fontColor": "#79D5D7"
+    },
+    "_d_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E020",
+      "fontColor": "#EA6D72"
+    },
+    "_d": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E020",
+      "fontColor": "#FD7378"
+    },
+    "_dart_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E021",
+      "fontColor": "#5A90EE"
+    },
+    "_dart": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E021",
+      "fontColor": "#89B4FF"
+    },
+    "_db_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E022",
+      "fontColor": "#dd4b78"
+    },
+    "_db": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E022"
+    },
+    "_db_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E022"
+    },
+    "_db_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E022"
+    },
+    "_default_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E023",
+      "fontColor": "#bfc2c1"
+    },
+    "_default": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E023"
+    },
+    "_docker_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E025",
+      "fontColor": "#5A90EE"
+    },
+    "_docker": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E025",
+      "fontColor": "#89B4FF"
+    },
+    "_docker_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E025",
+      "fontColor": "#5A90EE"
+    },
+    "_docker_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E025",
+      "fontColor": "#89B4FF"
+    },
+    "_docker_2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E025",
+      "fontColor": "#5A90EE"
+    },
+    "_docker_2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E025",
+      "fontColor": "#89B4FF"
+    },
+    "_docker_3_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E025",
+      "fontColor": "#5A90EE"
+    },
+    "_docker_3": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E025",
+      "fontColor": "#89B4FF"
+    },
+    "_ejs_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E049",
+      "fontColor": "#EFB041"
+    },
+    "_ejs": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E049",
+      "fontColor": "#EEC857"
+    },
+    "_elixir_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E028",
+      "fontColor": "#D17AF3"
+    },
+    "_elixir": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E028",
+      "fontColor": "#D593EF"
+    },
+    "_elixir_script_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E029",
+      "fontColor": "#D17AF3"
+    },
+    "_elixir_script": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E029",
+      "fontColor": "#D593EF"
+    },
+    "_elm_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02A",
+      "fontColor": "#5A90EE"
+    },
+    "_elm": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02A",
+      "fontColor": "#89B4FF"
+    },
+    "_eslint_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02C",
+      "fontColor": "#D17AF3"
+    },
+    "_eslint": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02C",
+      "fontColor": "#D593EF"
+    },
+    "_eslint_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02C",
+      "fontColor": "#D17AF3"
+    },
+    "_eslint_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02C",
+      "fontColor": "#D593EF"
+    },
+    "_ethereum_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02D",
+      "fontColor": "#5A90EE"
+    },
+    "_ethereum": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02D",
+      "fontColor": "#89B4FF"
+    },
+    "_f-sharp_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02E",
+      "fontColor": "#5A90EE"
+    },
+    "_f-sharp": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02E",
+      "fontColor": "#89B4FF"
+    },
+    "_favicon_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02F",
+      "fontColor": "#EFB041"
+    },
+    "_favicon": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E02F",
+      "fontColor": "#EEC857"
+    },
+    "_firebase_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E030",
+      "fontColor": "#F28D3A"
+    },
+    "_firebase": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E030",
+      "fontColor": "#FE9A5C"
+    },
+    "_firefox_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E031",
+      "fontColor": "#F28D3A"
+    },
+    "_firefox": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E031",
+      "fontColor": "#FE9A5C"
+    },
+    "_font_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E033",
+      "fontColor": "#EA6D72"
+    },
+    "_font": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E033",
+      "fontColor": "#FD7378"
+    },
+    "_git_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E036",
+      "fontColor": "#9E9999"
+    },
+    "_git": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E036",
+      "fontColor": "#757575"
+    },
+    "_github_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E037",
+      "fontColor": "#bfc2c1"
+    },
+    "_github": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E037"
+    },
+    "_gitlab_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E038",
+      "fontColor": "#F28D3A"
+    },
+    "_gitlab": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E038",
+      "fontColor": "#FE9A5C"
+    },
+    "_go_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E039",
+      "fontColor": "#5A90EE"
+    },
+    "_go": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E039",
+      "fontColor": "#89B4FF"
+    },
+    "_go2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03A",
+      "fontColor": "#5A90EE"
+    },
+    "_go2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03A",
+      "fontColor": "#89B4FF"
+    },
+    "_godot_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03B",
+      "fontColor": "#5A90EE"
+    },
+    "_godot": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03B",
+      "fontColor": "#89B4FF"
+    },
+    "_godot_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03B",
+      "fontColor": "#5A90EE"
+    },
+    "_godot_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03B",
+      "fontColor": "#89B4FF"
+    },
+    "_godot_2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03B",
+      "fontColor": "#5A90EE"
+    },
+    "_godot_2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03B",
+      "fontColor": "#89B4FF"
+    },
+    "_godot_3_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03B",
+      "fontColor": "#5A90EE"
+    },
+    "_godot_3": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03B",
+      "fontColor": "#89B4FF"
+    },
+    "_gradle_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03C",
+      "fontColor": "#5A90EE"
+    },
+    "_gradle": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03C",
+      "fontColor": "#89B4FF"
+    },
+    "_grails_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03D",
+      "fontColor": "#3CC079"
+    },
+    "_grails": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03D",
+      "fontColor": "#94E98F"
+    },
+    "_graphql_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03E",
+      "fontColor": "#EA6D72"
+    },
+    "_graphql": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03E",
+      "fontColor": "#FD7378"
+    },
+    "_grunt_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03F",
+      "fontColor": "#F28D3A"
+    },
+    "_grunt": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E03F",
+      "fontColor": "#FE9A5C"
+    },
+    "_gulp_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E040",
+      "fontColor": "#EA6D72"
+    },
+    "_gulp": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E040",
+      "fontColor": "#FD7378"
+    },
+    "_hacklang_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E041",
+      "fontColor": "#F28D3A"
+    },
+    "_hacklang": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E041",
+      "fontColor": "#FE9A5C"
+    },
+    "_haml_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E042",
+      "fontColor": "#EA6D72"
+    },
+    "_haml": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E042",
+      "fontColor": "#FD7378"
+    },
+    "_happenings_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E043",
+      "fontColor": "#5A90EE"
+    },
+    "_happenings": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E043",
+      "fontColor": "#89B4FF"
+    },
+    "_haskell_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E044",
+      "fontColor": "#D17AF3"
+    },
+    "_haskell": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E044",
+      "fontColor": "#D593EF"
+    },
+    "_haxe_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E045",
+      "fontColor": "#F28D3A"
+    },
+    "_haxe": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E045",
+      "fontColor": "#FE9A5C"
+    },
+    "_haxe_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E045",
+      "fontColor": "#F28D3A"
+    },
+    "_haxe_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E045",
+      "fontColor": "#FE9A5C"
+    },
+    "_haxe_2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E045",
+      "fontColor": "#F28D3A"
+    },
+    "_haxe_2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E045",
+      "fontColor": "#FE9A5C"
+    },
+    "_haxe_3_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E045",
+      "fontColor": "#F28D3A"
+    },
+    "_haxe_3": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E045",
+      "fontColor": "#FE9A5C"
+    },
+    "_heroku_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E046",
+      "fontColor": "#D17AF3"
+    },
+    "_heroku": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E046",
+      "fontColor": "#D593EF"
+    },
+    "_hex_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E047",
+      "fontColor": "#EA6D72"
+    },
+    "_hex": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E047",
+      "fontColor": "#FD7378"
+    },
+    "_html_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E048",
+      "fontColor": "#F28D3A"
+    },
+    "_html": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E048",
+      "fontColor": "#FE9A5C"
+    },
+    "_html_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E048",
+      "fontColor": "#F28D3A"
+    },
+    "_html_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E048",
+      "fontColor": "#FE9A5C"
+    },
+    "_html_2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E048",
+      "fontColor": "#F28D3A"
+    },
+    "_html_2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E048",
+      "fontColor": "#FE9A5C"
+    },
+    "_html_3_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E048",
+      "fontColor": "#F28D3A"
+    },
+    "_html_3": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E048",
+      "fontColor": "#FE9A5C"
+    },
+    "_html_erb_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E049",
+      "fontColor": "#b8383d"
+    },
+    "_html_erb": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E049",
+      "fontColor": "#E84654"
+    },
+    "_ignored_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04A",
+      "fontColor": "#3b4b52"
+    },
+    "_ignored": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04A",
+      "fontColor": "#41535b"
+    },
+    "_illustrator_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04B",
+      "fontColor": "#EFB041"
+    },
+    "_illustrator": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04B",
+      "fontColor": "#EEC857"
+    },
+    "_image_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04C",
+      "fontColor": "#EFB041"
+    },
+    "_image": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04C",
+      "fontColor": "#EEC857"
+    },
+    "_info_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04D",
+      "fontColor": "#5A90EE"
+    },
+    "_info": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04D",
+      "fontColor": "#89B4FF"
+    },
+    "_ionic_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04E",
+      "fontColor": "#5A90EE"
+    },
+    "_ionic": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04E",
+      "fontColor": "#89B4FF"
+    },
+    "_jade_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04F",
+      "fontColor": "#EA6D72"
+    },
+    "_jade": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E04F",
+      "fontColor": "#FD7378"
+    },
+    "_java_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E050",
+      "fontColor": "#EA6D72"
+    },
+    "_java": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E050",
+      "fontColor": "#FD7378"
+    },
+    "_java_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E050",
+      "fontColor": "#EA6D72"
+    },
+    "_java_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E050",
+      "fontColor": "#FD7378"
+    },
+    "_javascript_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E054",
+      "fontColor": "#F28D3A"
+    },
+    "_javascript": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E054",
+      "fontColor": "#EEC857"
+    },
+    "_javascript_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E054",
+      "fontColor": "#F28D3A"
+    },
+    "_javascript_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E054",
+      "fontColor": "#EEC857"
+    },
+    "_javascript_2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E054",
+      "fontColor": "#F28D3A"
+    },
+    "_javascript_2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E054",
+      "fontColor": "#EEC857"
+    },
+    "_jenkins_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E052",
+      "fontColor": "#EA6D72"
+    },
+    "_jenkins": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E052",
+      "fontColor": "#FD7378"
+    },
+    "_jinja_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E053",
+      "fontColor": "#EA6D72"
+    },
+    "_jinja": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E053",
+      "fontColor": "#FD7378"
+    },
+    "_json_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E059",
+      "fontColor": "#F28D3A"
+    },
+    "_json": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E059",
+      "fontColor": "#EEC857"
+    },
+    "_json_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E059",
+      "fontColor": "#F28D3A"
+    },
+    "_json_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E059",
+      "fontColor": "#EEC857"
+    },
+    "_julia_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E056",
+      "fontColor": "#D17AF3"
+    },
+    "_julia": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E056",
+      "fontColor": "#D593EF"
+    },
+    "_karma_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E057",
+      "fontColor": "#3CC079"
+    },
+    "_karma": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E057",
+      "fontColor": "#94E98F"
+    },
+    "_kotlin_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E058",
+      "fontColor": "#F28D3A"
+    },
+    "_kotlin": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E058",
+      "fontColor": "#FE9A5C"
+    },
+    "_less_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E059",
+      "fontColor": "#498ba7"
+    },
+    "_less": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E059",
+      "fontColor": "#1E8DEE"
+    },
+    "_license_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05A",
+      "fontColor": "#EFB041"
+    },
+    "_license": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05A",
+      "fontColor": "#EEC857"
+    },
+    "_license_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05A",
+      "fontColor": "#EFB041"
+    },
+    "_license_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05A",
+      "fontColor": "#EEC857"
+    },
+    "_license_2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05A",
+      "fontColor": "#EFB041"
+    },
+    "_license_2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05A",
+      "fontColor": "#EEC857"
+    },
+    "_liquid_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05B",
+      "fontColor": "#3CC079"
+    },
+    "_liquid": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05B",
+      "fontColor": "#94E98F"
+    },
+    "_livescript_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05C",
+      "fontColor": "#5A90EE"
+    },
+    "_livescript": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05C",
+      "fontColor": "#89B4FF"
+    },
+    "_lock_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05D",
+      "fontColor": "#EFB041"
+    },
+    "_lock": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05D",
+      "fontColor": "#EEC857"
+    },
+    "_lua_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05E",
+      "fontColor": "#5A90EE"
+    },
+    "_lua": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05E",
+      "fontColor": "#89B4FF"
+    },
+    "_makefile_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05F",
+      "fontColor": "#F28D3A"
+    },
+    "_makefile": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05F",
+      "fontColor": "#FE9A5C"
+    },
+    "_makefile_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05F",
+      "fontColor": "#F28D3A"
+    },
+    "_makefile_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05F",
+      "fontColor": "#FE9A5C"
+    },
+    "_makefile_2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05F",
+      "fontColor": "#F28D3A"
+    },
+    "_makefile_2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05F",
+      "fontColor": "#FE9A5C"
+    },
+    "_makefile_3_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05F",
+      "fontColor": "#F28D3A"
+    },
+    "_makefile_3": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E05F",
+      "fontColor": "#FE9A5C"
+    },
+    "_markdown_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E060",
+      "fontColor": "#5A90EE"
+    },
+    "_markdown": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E060",
+      "fontColor": "#89B4FF"
+    },
+    "_maven_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E061",
+      "fontColor": "#EA6D72"
+    },
+    "_maven": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E061",
+      "fontColor": "#FD7378"
+    },
+    "_mdo_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E062",
+      "fontColor": "#EA6D72"
+    },
+    "_mdo": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E062",
+      "fontColor": "#FD7378"
+    },
+    "_mustache_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E063",
+      "fontColor": "#F28D3A"
+    },
+    "_mustache": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E063",
+      "fontColor": "#FE9A5C"
+    },
+    "_nim_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E065",
+      "fontColor": "#b7b73b"
+    },
+    "_nim": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E065"
+    },
+    "_notebook_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E066",
+      "fontColor": "#498ba7"
+    },
+    "_notebook": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E066",
+      "fontColor": "#1E8DEE"
+    },
+    "_npm_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E067",
+      "fontColor": "#3b4b52"
+    },
+    "_npm": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E067"
+    },
+    "_npm_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E067"
+    },
+    "_npm_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E067",
+      "fontColor": "#FD7378"
+    },
+    "_npm_ignored_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E068",
+      "fontColor": "#EA6D72"
+    },
+    "_npm_ignored": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E068",
+      "fontColor": "#3b4b52"
+    },
+    "_nunjucks_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E069",
+      "fontColor": "#3CC079"
+    },
+    "_nunjucks": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E069",
+      "fontColor": "#94E98F"
+    },
+    "_ocaml_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06A",
+      "fontColor": "#F28D3A"
+    },
+    "_ocaml": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06A",
+      "fontColor": "#FE9A5C"
+    },
+    "_odata_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06B",
+      "fontColor": "#F28D3A"
+    },
+    "_odata": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06B",
+      "fontColor": "#FE9A5C"
+    },
+    "_pddl_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06C",
+      "fontColor": "#D17AF3"
+    },
+    "_pddl": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06C",
+      "fontColor": "#D593EF"
+    },
+    "_pdf_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06D",
+      "fontColor": "#EA6D72"
+    },
+    "_pdf": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06D",
+      "fontColor": "#FD7378"
+    },
+    "_perl_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06E",
+      "fontColor": "#5A90EE"
+    },
+    "_perl": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06E",
+      "fontColor": "#89B4FF"
+    },
+    "_photoshop_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06F",
+      "fontColor": "#5A90EE"
+    },
+    "_photoshop": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E06F",
+      "fontColor": "#89B4FF"
+    },
+    "_php_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E070",
+      "fontColor": "#D17AF3"
+    },
+    "_php": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E070",
+      "fontColor": "#D593EF"
+    },
+    "_pipeline_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E071",
+      "fontColor": "#F28D3A"
+    },
+    "_pipeline": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E071",
+      "fontColor": "#FE9A5C"
+    },
+    "_plan_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E072",
+      "fontColor": "#3CC079"
+    },
+    "_plan": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E072",
+      "fontColor": "#94E98F"
+    },
+    "_platformio_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E073",
+      "fontColor": "#F28D3A"
+    },
+    "_platformio": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E073",
+      "fontColor": "#FE9A5C"
+    },
+    "_powershell_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E074",
+      "fontColor": "#5A90EE"
+    },
+    "_powershell": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E074",
+      "fontColor": "#89B4FF"
+    },
+    "_prisma_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E075",
+      "fontColor": "#5A90EE"
+    },
+    "_prisma": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E075",
+      "fontColor": "#89B4FF"
+    },
+    "_prolog_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E077",
+      "fontColor": "#F28D3A"
+    },
+    "_prolog": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E077",
+      "fontColor": "#FE9A5C"
+    },
+    "_pug_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E078",
+      "fontColor": "#EA6D72"
+    },
+    "_pug": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E078",
+      "fontColor": "#FD7378"
+    },
+    "_puppet_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E079",
+      "fontColor": "#EFB041"
+    },
+    "_puppet": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E079",
+      "fontColor": "#EEC857"
+    },
+    "_purescript_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07A",
+      "fontColor": "#bfc2c1"
+    },
+    "_purescript": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07A"
+    },
+    "_python_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07B",
+      "fontColor": "#18CED1"
+    },
+    "_python": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07B",
+      "fontColor": "#79D5D7"
+    },
+    "_react_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07D",
+      "fontColor": "#5A90EE"
+    },
+    "_react": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07D",
+      "fontColor": "#89B4FF"
+    },
+    "_react_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07D",
+      "fontColor": "#5A90EE"
+    },
+    "_react_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07D",
+      "fontColor": "#89B4FF"
+    },
+    "_reasonml_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07E",
+      "fontColor": "#EA6D72"
+    },
+    "_reasonml": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07E",
+      "fontColor": "#FD7378"
+    },
+    "_rescript_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07F",
+      "fontColor": "#EA6D72"
+    },
+    "_rescript": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07F",
+      "fontColor": "#FD7378"
+    },
+    "_rescript_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07F",
+      "fontColor": "#EA6D72"
+    },
+    "_rescript_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E07F",
+      "fontColor": "#FD7378"
+    },
+    "_rollup_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E080",
+      "fontColor": "#EA6D72"
+    },
+    "_rollup": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E080",
+      "fontColor": "#FD7378"
+    },
+    "_ruby_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E081",
+      "fontColor": "#EA6D72"
+    },
+    "_ruby": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E081",
+      "fontColor": "#FD7378"
+    },
+    "_rust_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E082",
+      "fontColor": "#9E9999"
+    },
+    "_rust": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E082",
+      "fontColor": "#757575"
+    },
+    "_salesforce_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E083",
+      "fontColor": "#5A90EE"
+    },
+    "_salesforce": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E083",
+      "fontColor": "#89B4FF"
+    },
+    "_sass_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E084",
+      "fontColor": "#EA6D72"
+    },
+    "_sass": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E084",
+      "fontColor": "#FD7378"
+    },
+    "_sbt_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E085",
+      "fontColor": "#5A90EE"
+    },
+    "_sbt": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E085",
+      "fontColor": "#89B4FF"
+    },
+    "_scala_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E086",
+      "fontColor": "#EA6D72"
+    },
+    "_scala": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E086",
+      "fontColor": "#FD7378"
+    },
+    "_shell_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E089",
+      "fontColor": "#18CED1"
+    },
+    "_shell": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E089",
+      "fontColor": "#79D5D7"
+    },
+    "_slim_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08A",
+      "fontColor": "#F28D3A"
+    },
+    "_slim": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08A",
+      "fontColor": "#FE9A5C"
+    },
+    "_smarty_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08B",
+      "fontColor": "#EFB041"
+    },
+    "_smarty": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08B",
+      "fontColor": "#EEC857"
+    },
+    "_spring_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08C",
+      "fontColor": "#3CC079"
+    },
+    "_spring": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08C",
+      "fontColor": "#94E98F"
+    },
+    "_stylelint_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08D",
+      "fontColor": "#bfc2c1"
+    },
+    "_stylelint": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08D"
+    },
+    "_stylelint_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08D"
+    },
+    "_stylelint_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08D"
+    },
+    "_stylus_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08E",
+      "fontColor": "#3CC079"
+    },
+    "_stylus": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08E",
+      "fontColor": "#94E98F"
+    },
+    "_sublime_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08F",
+      "fontColor": "#F28D3A"
+    },
+    "_sublime": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E08F",
+      "fontColor": "#FE9A5C"
+    },
+    "_svelte_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E090",
+      "fontColor": "#EA6D72"
+    },
+    "_svelte": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E090",
+      "fontColor": "#FD7378"
+    },
+    "_svg_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E091",
+      "fontColor": "#D17AF3"
+    },
+    "_svg": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E091",
+      "fontColor": "#D593EF"
+    },
+    "_svg_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E091",
+      "fontColor": "#D17AF3"
+    },
+    "_svg_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E091",
+      "fontColor": "#D593EF"
+    },
+    "_swift_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E092",
+      "fontColor": "#F28D3A"
+    },
+    "_swift": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E092",
+      "fontColor": "#FE9A5C"
+    },
+    "_terraform_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E093",
+      "fontColor": "#D17AF3"
+    },
+    "_terraform": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E093",
+      "fontColor": "#D593EF"
+    },
+    "_tex_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E094",
+      "fontColor": "#5A90EE"
+    },
+    "_tex": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E094",
+      "fontColor": "#89B4FF"
+    },
+    "_tex_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E094",
+      "fontColor": "#5A90EE"
+    },
+    "_tex_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E094",
+      "fontColor": "#89B4FF"
+    },
+    "_tex_2_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E094",
+      "fontColor": "#5A90EE"
+    },
+    "_tex_2": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E094",
+      "fontColor": "#89B4FF"
+    },
+    "_tex_3_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E094",
+      "fontColor": "#5A90EE"
+    },
+    "_tex_3": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E094",
+      "fontColor": "#89B4FF"
+    },
+    "_todo": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E096"
+    },
+    "_tsconfig_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E097",
+      "fontColor": "#3CC079"
+    },
+    "_tsconfig": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E097",
+      "fontColor": "#94E98F"
+    },
+    "_twig_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E098",
+      "fontColor": "#3CC079"
+    },
+    "_twig": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E098",
+      "fontColor": "#94E98F"
+    },
+    "_typescript_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E099",
+      "fontColor": "#5A90EE"
+    },
+    "_typescript": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E099",
+      "fontColor": "#89B4FF"
+    },
+    "_typescript_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E099",
+      "fontColor": "#5A90EE"
+    },
+    "_typescript_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E099",
+      "fontColor": "#89B4FF"
+    },
+    "_vala_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09A",
+      "fontColor": "#9E9999"
+    },
+    "_vala": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09A",
+      "fontColor": "#757575"
+    },
+    "_video_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09B",
+      "fontColor": "#EA6D72"
+    },
+    "_video": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09B",
+      "fontColor": "#FD7378"
+    },
+    "_vite_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09C",
+      "fontColor": "#EFB041"
+    },
+    "_vite": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09C",
+      "fontColor": "#EEC857"
+    },
+    "_vue_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09D",
+      "fontColor": "#3CC079"
+    },
+    "_vue": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09D",
+      "fontColor": "#94E98F"
+    },
+    "_wasm_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09E",
+      "fontColor": "#D17AF3"
+    },
+    "_wasm": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09E",
+      "fontColor": "#D593EF"
+    },
+    "_wat_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09F",
+      "fontColor": "#D17AF3"
+    },
+    "_wat": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E09F",
+      "fontColor": "#D593EF"
+    },
+    "_webpack_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A0",
+      "fontColor": "#5A90EE"
+    },
+    "_webpack": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A0",
+      "fontColor": "#89B4FF"
+    },
+    "_wgt_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A1",
+      "fontColor": "#5A90EE"
+    },
+    "_wgt": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A1",
+      "fontColor": "#89B4FF"
+    },
+    "_windows_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A2",
+      "fontColor": "#5A90EE"
+    },
+    "_windows": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A2",
+      "fontColor": "#89B4FF"
+    },
+    "_word_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A3",
+      "fontColor": "#5A90EE"
+    },
+    "_word": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A3",
+      "fontColor": "#89B4FF"
+    },
+    "_xls_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A4",
+      "fontColor": "#3CC079"
+    },
+    "_xls": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A4",
+      "fontColor": "#94E98F"
+    },
+    "_xml_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A5",
+      "fontColor": "#F28D3A"
+    },
+    "_xml": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A5",
+      "fontColor": "#FE9A5C"
+    },
+    "_yarn_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A6",
+      "fontColor": "#5A90EE"
+    },
+    "_yarn": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A6",
+      "fontColor": "#89B4FF"
+    },
+    "_yml_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A7",
+      "fontColor": "#D17AF3"
+    },
+    "_yml": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A7",
+      "fontColor": "#D593EF"
+    },
+    "_zig_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A8",
+      "fontColor": "#F28D3A"
+    },
+    "_zig": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A8",
+      "fontColor": "#FE9A5C"
+    },
+    "_zip_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A9",
+      "fontColor": "#9E9999"
+    },
+    "_zip": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A9",
+      "fontColor": "#757575"
+    },
+    "_zip_1_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A9",
+      "fontColor": "#9E9999"
+    },
+    "_zip_1": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E0A9",
+      "fontColor": "#757575"
+    },
+    "_mdq_light": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E022",
+      "fontColor": "#1B5E20"
+    },
+    "_mdq": {
+      "fontId": "aicoding-seti",
+      "fontCharacter": "\\E022",
+      "fontColor": "#2ADB5C"
+    }
+  },
+  "fileNames": {
+    "mix": "_hex",
+    "karma.conf.js": "_karma",
+    "karma.conf.cjs": "_karma",
+    "karma.conf.mjs": "_karma",
+    "karma.conf.coffee": "_karma",
+    "readme.md": "_info",
+    "readme.txt": "_info",
+    "readme": "_info",
+    "changelog.md": "_clock",
+    "changelog.txt": "_clock",
+    "changelog": "_clock",
+    "changes.md": "_clock",
+    "changes.txt": "_clock",
+    "changes": "_clock",
+    "version.md": "_clock",
+    "version.txt": "_clock",
+    "version": "_clock",
+    "mvnw": "_maven",
+    "pom.xml": "_maven",
+    "tsconfig.json": "_tsconfig",
+    "vite.config.js": "_vite",
+    "vite.config.ts": "_vite",
+    "vite.config.mjs": "_vite",
+    "vite.config.mts": "_vite",
+    "vite.config.cjs": "_vite",
+    "vite.config.cts": "_vite",
+    "swagger.json": "_json_1",
+    "swagger.yml": "_json_1",
+    "swagger.yaml": "_json_1",
+    "mime.types": "_config",
+    "jenkinsfile": "_jenkins",
+    "babel.config.js": "_babel",
+    "babel.config.json": "_babel",
+    "babel.config.cjs": "_babel",
+    "build": "_bazel",
+    "build.bazel": "_bazel",
+    "workspace": "_bazel",
+    "workspace.bazel": "_bazel",
+    "bower.json": "_bower",
+    "docker-healthcheck": "_docker_2",
+    "eslint.config.js": "_eslint",
+    "firebase.json": "_firebase",
+    "geckodriver": "_firefox",
+    "gruntfile.js": "_grunt",
+    "gruntfile.babel.js": "_grunt",
+    "gruntfile.coffee": "_grunt",
+    "gulpfile": "_gulp",
+    "gulpfile.js": "_gulp",
+    "ionic.config.json": "_ionic",
+    "ionic.project": "_ionic",
+    "platformio.ini": "_platformio",
+    "rollup.config.js": "_rollup",
+    "sass-lint.yml": "_sass",
+    "stylelint.config.js": "_stylelint",
+    "stylelint.config.cjs": "_stylelint",
+    "stylelint.config.mjs": "_stylelint",
+    "yarn.clean": "_yarn",
+    "yarn.lock": "_yarn",
+    "webpack.config.js": "_webpack",
+    "webpack.config.cjs": "_webpack",
+    "webpack.config.mjs": "_webpack",
+    "webpack.config.ts": "_webpack",
+    "webpack.config.build.js": "_webpack",
+    "webpack.config.build.cjs": "_webpack",
+    "webpack.config.build.mjs": "_webpack",
+    "webpack.config.build.ts": "_webpack",
+    "webpack.common.js": "_webpack",
+    "webpack.common.cjs": "_webpack",
+    "webpack.common.mjs": "_webpack",
+    "webpack.common.ts": "_webpack",
+    "webpack.dev.js": "_webpack",
+    "webpack.dev.cjs": "_webpack",
+    "webpack.dev.mjs": "_webpack",
+    "webpack.dev.ts": "_webpack",
+    "webpack.prod.js": "_webpack",
+    "webpack.prod.cjs": "_webpack",
+    "webpack.prod.mjs": "_webpack",
+    "webpack.prod.ts": "_webpack",
+    "license": "_license",
+    "licence": "_license",
+    "license.txt": "_license",
+    "licence.txt": "_license",
+    "license.md": "_license",
+    "licence.md": "_license",
+    "copying": "_license",
+    "copying.txt": "_license",
+    "copying.md": "_license",
+    "compiling": "_license_1",
+    "compiling.txt": "_license_1",
+    "compiling.md": "_license_1",
+    "contributing": "_license_2",
+    "contributing.txt": "_license_2",
+    "contributing.md": "_license_2",
+    "qmakefile": "_makefile_1",
+    "omakefile": "_makefile_2",
+    "cmakelists.txt": "_makefile_3",
+    "procfile": "_heroku",
+    "todo": "_todo",
+    "todo.txt": "_todo",
+    "todo.md": "_todo",
+    "npm-debug.log": "_npm_ignored"
+  },
+  "fileExtensions": {
+    "bsl": "_bsl",
+    "mdo": "_mdo",
+    "mdq": "_mdq",
+    "cls": "_salesforce",
+    "apex": "_salesforce",
+    "asm": "_asm",
+    "s": "_asm",
+    "bicep": "_bicep",
+    "bzl": "_bazel",
+    "bazel": "_bazel",
+    "build": "_bazel",
+    "workspace": "_bazel",
+    "bazelignore": "_bazel",
+    "bazelversion": "_bazel",
+    "h": "_c_1",
+    "aspx": "_html",
+    "ascx": "_html_1",
+    "asax": "_html_2",
+    "master": "_html_2",
+    "hh": "_cpp_1",
+    "hpp": "_cpp_1",
+    "hxx": "_cpp_1",
+    "h++": "_cpp_1",
+    "edn": "_clojure_1",
+    "cfc": "_coldfusion",
+    "cfm": "_coldfusion",
+    "litcoffee": "_coffee",
+    "config": "_config",
+    "cr": "_crystal",
+    "ecr": "_crystal_embedded",
+    "slang": "_crystal_embedded",
+    "cson": "_json",
+    "css.map": "_css",
+    "sss": "_css",
+    "csv": "_csv",
+    "xls": "_xls",
+    "xlsx": "_xls",
+    "cuh": "_cu_1",
+    "hu": "_cu_1",
+    "cake": "_cake",
+    "ctp": "_cake_php",
+    "d": "_d",
+    "doc": "_word",
+    "docx": "_word",
+    "ejs": "_ejs",
+    "ex": "_elixir",
+    "exs": "_elixir_script",
+    "elm": "_elm",
+    "ico": "_favicon",
+    "gitconfig": "_git",
+    "gitkeep": "_git",
+    "gitattributes": "_git",
+    "gitmodules": "_git",
+    "slide": "_go",
+    "article": "_go",
+    "gd": "_godot",
+    "godot": "_godot_1",
+    "tres": "_godot_2",
+    "tscn": "_godot_3",
+    "gradle": "_gradle",
+    "gsp": "_grails",
+    "gql": "_graphql",
+    "graphql": "_graphql",
+    "graphqls": "_graphql",
+    "hack": "_hacklang",
+    "haml": "_haml",
+    "hs": "_haskell",
+    "lhs": "_haskell",
+    "hx": "_haxe",
+    "hxs": "_haxe_1",
+    "hxp": "_haxe_2",
+    "hxml": "_haxe_3",
+    "jade": "_jade",
+    "class": "_java_1",
+    "classpath": "_java",
+    "js.map": "_javascript",
+    "cjs.map": "_javascript",
+    "mjs.map": "_javascript",
+    "spec.js": "_javascript_1",
+    "spec.cjs": "_javascript_1",
+    "spec.mjs": "_javascript_1",
+    "test.js": "_javascript_1",
+    "test.cjs": "_javascript_1",
+    "test.mjs": "_javascript_1",
+    "es": "_javascript",
+    "es5": "_javascript",
+    "es7": "_javascript",
+    "jinja": "_jinja",
+    "jinja2": "_jinja",
+    "kt": "_kotlin",
+    "kts": "_kotlin",
+    "liquid": "_liquid",
+    "ls": "_livescript",
+    "argdown": "_argdown",
+    "ad": "_argdown",
+    "mustache": "_mustache",
+    "stache": "_mustache",
+    "nim": "_nim",
+    "nims": "_nim",
+    "github-issues": "_github",
+    "ipynb": "_notebook",
+    "njk": "_nunjucks",
+    "nunjucks": "_nunjucks",
+    "nunjs": "_nunjucks",
+    "nunj": "_nunjucks",
+    "njs": "_nunjucks",
+    "nj": "_nunjucks",
+    "npm-debug.log": "_npm",
+    "npmignore": "_npm_1",
+    "npmrc": "_npm_1",
+    "ml": "_ocaml",
+    "mli": "_ocaml",
+    "cmx": "_ocaml",
+    "cmxa": "_ocaml",
+    "odata": "_odata",
+    "php.inc": "_php",
+    "pipeline": "_pipeline",
+    "pddl": "_pddl",
+    "plan": "_plan",
+    "happenings": "_happenings",
+    "prisma": "_prisma",
+    "pp": "_puppet",
+    "epp": "_puppet",
+    "purs": "_purescript",
+    "spec.jsx": "_react_1",
+    "test.jsx": "_react_1",
+    "cjsx": "_react",
+    "spec.tsx": "_react_1",
+    "test.tsx": "_react_1",
+    "re": "_reasonml",
+    "res": "_rescript",
+    "resi": "_rescript_1",
+    "r": "_R",
+    "rmd": "_R",
+    "erb": "_html_erb",
+    "erb.html": "_html_erb",
+    "html.erb": "_html_erb",
+    "sass": "_sass",
+    "springbeans": "_spring",
+    "slim": "_slim",
+    "smarty.tpl": "_smarty",
+    "tpl": "_smarty",
+    "sbt": "_sbt",
+    "scala": "_scala",
+    "sol": "_ethereum",
+    "styl": "_stylus",
+    "svelte": "_svelte",
+    "soql": "_db_1",
+    "tf": "_terraform",
+    "tf.json": "_terraform",
+    "tfvars": "_terraform",
+    "tfvars.json": "_terraform",
+    "dtx": "_tex_2",
+    "ins": "_tex_3",
+    "toml": "_config",
+    "twig": "_twig",
+    "spec.ts": "_typescript_1",
+    "test.ts": "_typescript_1",
+    "vala": "_vala",
+    "vapi": "_vala",
+    "component": "_html_3",
+    "vue": "_vue",
+    "wasm": "_wasm",
+    "wat": "_wat",
+    "pro": "_prolog",
+    "zig": "_zig",
+    "jar": "_zip",
+    "zip": "_zip_1",
+    "wgt": "_wgt",
+    "ai": "_illustrator",
+    "psd": "_photoshop",
+    "pdf": "_pdf",
+    "eot": "_font",
+    "ttf": "_font",
+    "woff": "_font",
+    "woff2": "_font",
+    "otf": "_font",
+    "avif": "_image",
+    "gif": "_image",
+    "jpg": "_image",
+    "jpeg": "_image",
+    "png": "_image",
+    "pxm": "_image",
+    "svg": "_svg",
+    "svgx": "_image",
+    "tiff": "_image",
+    "webp": "_image",
+    "sublime-project": "_sublime",
+    "sublime-workspace": "_sublime",
+    "mov": "_video",
+    "ogv": "_video",
+    "webm": "_video",
+    "avi": "_video",
+    "mpg": "_video",
+    "mp4": "_video",
+    "mp3": "_audio",
+    "ogg": "_audio",
+    "wav": "_audio",
+    "flac": "_audio",
+    "3ds": "_svg_1",
+    "3dm": "_svg_1",
+    "stl": "_svg_1",
+    "obj": "_svg_1",
+    "dae": "_svg_1",
+    "babelrc": "_babel",
+    "babelrc.js": "_babel",
+    "babelrc.cjs": "_babel",
+    "bazelrc": "_bazel_1",
+    "bowerrc": "_bower",
+    "dockerignore": "_docker_1",
+    "codeclimate.yml": "_code-climate",
+    "eslintrc": "_eslint",
+    "eslintrc.js": "_eslint",
+    "eslintrc.cjs": "_eslint",
+    "eslintrc.yaml": "_eslint",
+    "eslintrc.yml": "_eslint",
+    "eslintrc.json": "_eslint",
+    "eslintignore": "_eslint_1",
+    "firebaserc": "_firebase",
+    "gitlab-ci.yml": "_gitlab",
+    "jshintrc": "_javascript_2",
+    "jscsrc": "_javascript_2",
+    "stylelintrc": "_stylelint",
+    "stylelintrc.json": "_stylelint",
+    "stylelintrc.yaml": "_stylelint",
+    "stylelintrc.yml": "_stylelint",
+    "stylelintrc.js": "_stylelint",
+    "stylelintignore": "_stylelint_1",
+    "direnv": "_config",
+    "static": "_config",
+    "slugignore": "_config",
+    "tmp": "_clock_1",
+    "htaccess": "_config",
+    "key": "_lock",
+    "cert": "_lock",
+    "cer": "_lock",
+    "crt": "_lock",
+    "pem": "_lock",
+    "ds_store": "_ignored",
+    ".gitignore": "_ignored"
+  },
+  "languageIds": {
+    "bat": "_windows",
+    "clojure": "_clojure",
+    "coffeescript": "_coffee",
+    "jsonc": "_json",
+    "json": "_json",
+    "c": "_c",
+    "cpp": "_cpp",
+    "cuda-cpp": "_cu",
+    "csharp": "_c-sharp",
+    "css": "_css",
+    "dart": "_dart",
+    "dockerfile": "_docker",
+    "dotenv": "_config",
+    "ignore": "_git",
+    "fsharp": "_f-sharp",
+    "git-commit": "_git",
+    "go": "_go2",
+    "groovy": "_grails",
+    "handlebars": "_mustache",
+    "html": "_html_3",
+    "properties": "_config",
+    "java": "_java",
+    "javascriptreact": "_react",
+    "javascript": "_javascript",
+    "julia": "_julia",
+    "tex": "_tex_1",
+    "latex": "_tex",
+    "less": "_less",
+    "lua": "_lua",
+    "makefile": "_makefile",
+    "markdown": "_markdown",
+    "objective-c": "_c_2",
+    "objective-cpp": "_cpp_2",
+    "perl": "_perl",
+    "php": "_php",
+    "powershell": "_powershell",
+    "jade": "_pug",
+    "python": "_python",
+    "r": "_R",
+    "razor": "_html",
+    "ruby": "_ruby",
+    "rust": "_rust",
+    "scss": "_sass",
+    "search-result": "_code-search",
+    "shellscript": "_shell",
+    "sql": "_db",
+    "swift": "_swift",
+    "typescript": "_typescript",
+    "typescriptreact": "_react",
+    "xml": "_xml",
+    "dockercompose": "_docker_3",
+    "yaml": "_yml",
+    "argdown": "_argdown",
+    "bicep": "_bicep",
+    "elixir": "_elixir",
+    "elm": "_elm",
+    "erb": "_html_erb",
+    "github-issues": "_github",
+    "gradle": "_gradle",
+    "godot": "_godot",
+    "haml": "_haml",
+    "haskell": "_haskell",
+    "haxe": "_haxe",
+    "jinja": "_jinja",
+    "kotlin": "_kotlin",
+    "mustache": "_mustache",
+    "nunjucks": "_nunjucks",
+    "ocaml": "_ocaml",
+    "rescript": "_rescript",
+    "sass": "_sass",
+    "stylus": "_stylus",
+    "terraform": "_terraform",
+    "todo": "_todo",
+    "vala": "_vala",
+    "vue": "_vue",
+    "jsonl": "_json",
+    "postcss": "_css",
+    "django-html": "_html_3",
+    "blade": "_php"
+  },
+  "light": {
+    "file": "_default_light",
+    "fileNames": {
+      "mix": "_hex_light",
+      "karma.conf.js": "_karma_light",
+      "karma.conf.cjs": "_karma_light",
+      "karma.conf.mjs": "_karma_light",
+      "karma.conf.coffee": "_karma_light",
+      "readme.md": "_info_light",
+      "readme.txt": "_info_light",
+      "readme": "_info_light",
+      "changelog.md": "_clock_light",
+      "changelog.txt": "_clock_light",
+      "changelog": "_clock_light",
+      "changes.md": "_clock_light",
+      "changes.txt": "_clock_light",
+      "changes": "_clock_light",
+      "version.md": "_clock_light",
+      "version.txt": "_clock_light",
+      "version": "_clock_light",
+      "mvnw": "_maven_light",
+      "pom.xml": "_maven_light",
+      "tsconfig.json": "_tsconfig_light",
+      "vite.config.js": "_vite_light",
+      "vite.config.ts": "_vite_light",
+      "vite.config.mjs": "_vite_light",
+      "vite.config.mts": "_vite_light",
+      "vite.config.cjs": "_vite_light",
+      "vite.config.cts": "_vite_light",
+      "swagger.json": "_json_1_light",
+      "swagger.yml": "_json_1_light",
+      "swagger.yaml": "_json_1_light",
+      "mime.types": "_config_light",
+      "jenkinsfile": "_jenkins_light",
+      "babel.config.js": "_babel_light",
+      "babel.config.json": "_babel_light",
+      "babel.config.cjs": "_babel_light",
+      "build": "_bazel_light",
+      "build.bazel": "_bazel_light",
+      "workspace": "_bazel_light",
+      "workspace.bazel": "_bazel_light",
+      "bower.json": "_bower_light",
+      "docker-healthcheck": "_docker_2_light",
+      "eslint.config.js": "_eslint_light",
+      "firebase.json": "_firebase_light",
+      "geckodriver": "_firefox_light",
+      "gruntfile.js": "_grunt_light",
+      "gruntfile.babel.js": "_grunt_light",
+      "gruntfile.coffee": "_grunt_light",
+      "gulpfile": "_gulp_light",
+      "gulpfile.js": "_gulp_light",
+      "ionic.config.json": "_ionic_light",
+      "ionic.project": "_ionic_light",
+      "platformio.ini": "_platformio_light",
+      "rollup.config.js": "_rollup_light",
+      "sass-lint.yml": "_sass_light",
+      "stylelint.config.js": "_stylelint_light",
+      "stylelint.config.cjs": "_stylelint_light",
+      "stylelint.config.mjs": "_stylelint_light",
+      "yarn.clean": "_yarn_light",
+      "yarn.lock": "_yarn_light",
+      "webpack.config.js": "_webpack_light",
+      "webpack.config.cjs": "_webpack_light",
+      "webpack.config.mjs": "_webpack_light",
+      "webpack.config.ts": "_webpack_light",
+      "webpack.config.build.js": "_webpack_light",
+      "webpack.config.build.cjs": "_webpack_light",
+      "webpack.config.build.mjs": "_webpack_light",
+      "webpack.config.build.ts": "_webpack_light",
+      "webpack.common.js": "_webpack_light",
+      "webpack.common.cjs": "_webpack_light",
+      "webpack.common.mjs": "_webpack_light",
+      "webpack.common.ts": "_webpack_light",
+      "webpack.dev.js": "_webpack_light",
+      "webpack.dev.cjs": "_webpack_light",
+      "webpack.dev.mjs": "_webpack_light",
+      "webpack.dev.ts": "_webpack_light",
+      "webpack.prod.js": "_webpack_light",
+      "webpack.prod.cjs": "_webpack_light",
+      "webpack.prod.mjs": "_webpack_light",
+      "webpack.prod.ts": "_webpack_light",
+      "license": "_license_light",
+      "licence": "_license_light",
+      "license.txt": "_license_light",
+      "licence.txt": "_license_light",
+      "license.md": "_license_light",
+      "licence.md": "_license_light",
+      "copying": "_license_light",
+      "copying.txt": "_license_light",
+      "copying.md": "_license_light",
+      "compiling": "_license_1_light",
+      "compiling.txt": "_license_1_light",
+      "compiling.md": "_license_1_light",
+      "contributing": "_license_2_light",
+      "contributing.txt": "_license_2_light",
+      "contributing.md": "_license_2_light",
+      "qmakefile": "_makefile_1_light",
+      "omakefile": "_makefile_2_light",
+      "cmakelists.txt": "_makefile_3_light",
+      "procfile": "_heroku_light",
+      "npm-debug.log": "_npm_ignored_light"
+    },
+    "fileExtensions": {
+      "bsl": "_bsl_light",
+      "mdo": "_mdo_light",
+      "mdq": "_mdq_light",
+      "cls": "_salesforce_light",
+      "apex": "_salesforce_light",
+      "asm": "_asm_light",
+      "s": "_asm_light",
+      "bicep": "_bicep_light",
+      "bzl": "_bazel_light",
+      "bazel": "_bazel_light",
+      "build": "_bazel_light",
+      "workspace": "_bazel_light",
+      "bazelignore": "_bazel_light",
+      "bazelversion": "_bazel_light",
+      "h": "_c_1_light",
+      "aspx": "_html_light",
+      "ascx": "_html_1_light",
+      "asax": "_html_2_light",
+      "master": "_html_2_light",
+      "hh": "_cpp_1_light",
+      "hpp": "_cpp_1_light",
+      "hxx": "_cpp_1_light",
+      "h++": "_cpp_1_light",
+      "edn": "_clojure_1_light",
+      "cfc": "_coldfusion_light",
+      "cfm": "_coldfusion_light",
+      "litcoffee": "_coffee_light",
+      "config": "_config_light",
+      "cr": "_crystal_light",
+      "ecr": "_crystal_embedded_light",
+      "slang": "_crystal_embedded_light",
+      "cson": "_json_light",
+      "css.map": "_css_light",
+      "sss": "_css_light",
+      "csv": "_csv_light",
+      "xls": "_xls_light",
+      "xlsx": "_xls_light",
+      "cuh": "_cu_1_light",
+      "hu": "_cu_1_light",
+      "cake": "_cake_light",
+      "ctp": "_cake_php_light",
+      "d": "_d_light",
+      "doc": "_word_light",
+      "docx": "_word_light",
+      "ejs": "_ejs_light",
+      "ex": "_elixir_light",
+      "exs": "_elixir_script_light",
+      "elm": "_elm_light",
+      "ico": "_favicon_light",
+      "gitconfig": "_git_light",
+      "gitkeep": "_git_light",
+      "gitattributes": "_git_light",
+      "gitmodules": "_git_light",
+      "slide": "_go_light",
+      "article": "_go_light",
+      "gd": "_godot_light",
+      "godot": "_godot_1_light",
+      "tres": "_godot_2_light",
+      "tscn": "_godot_3_light",
+      "gradle": "_gradle_light",
+      "gsp": "_grails_light",
+      "gql": "_graphql_light",
+      "graphql": "_graphql_light",
+      "graphqls": "_graphql_light",
+      "hack": "_hacklang_light",
+      "haml": "_haml_light",
+      "hs": "_haskell_light",
+      "lhs": "_haskell_light",
+      "hx": "_haxe_light",
+      "hxs": "_haxe_1_light",
+      "hxp": "_haxe_2_light",
+      "hxml": "_haxe_3_light",
+      "jade": "_jade_light",
+      "class": "_java_1_light",
+      "classpath": "_java_light",
+      "js.map": "_javascript_light",
+      "cjs.map": "_javascript_light",
+      "mjs.map": "_javascript_light",
+      "spec.js": "_javascript_1_light",
+      "spec.cjs": "_javascript_1_light",
+      "spec.mjs": "_javascript_1_light",
+      "test.js": "_javascript_1_light",
+      "test.cjs": "_javascript_1_light",
+      "test.mjs": "_javascript_1_light",
+      "es": "_javascript_light",
+      "es5": "_javascript_light",
+      "es7": "_javascript_light",
+      "jinja": "_jinja_light",
+      "jinja2": "_jinja_light",
+      "kt": "_kotlin_light",
+      "kts": "_kotlin_light",
+      "liquid": "_liquid_light",
+      "ls": "_livescript_light",
+      "argdown": "_argdown_light",
+      "ad": "_argdown_light",
+      "mustache": "_mustache_light",
+      "stache": "_mustache_light",
+      "nim": "_nim_light",
+      "nims": "_nim_light",
+      "github-issues": "_github_light",
+      "ipynb": "_notebook_light",
+      "njk": "_nunjucks_light",
+      "nunjucks": "_nunjucks_light",
+      "nunjs": "_nunjucks_light",
+      "nunj": "_nunjucks_light",
+      "njs": "_nunjucks_light",
+      "nj": "_nunjucks_light",
+      "npm-debug.log": "_npm_light",
+      "npmignore": "_npm_1_light",
+      "npmrc": "_npm_1_light",
+      "ml": "_ocaml_light",
+      "mli": "_ocaml_light",
+      "cmx": "_ocaml_light",
+      "cmxa": "_ocaml_light",
+      "odata": "_odata_light",
+      "php.inc": "_php_light",
+      "pipeline": "_pipeline_light",
+      "pddl": "_pddl_light",
+      "plan": "_plan_light",
+      "happenings": "_happenings_light",
+      "prisma": "_prisma_light",
+      "pp": "_puppet_light",
+      "epp": "_puppet_light",
+      "purs": "_purescript_light",
+      "spec.jsx": "_react_1_light",
+      "test.jsx": "_react_1_light",
+      "cjsx": "_react_light",
+      "spec.tsx": "_react_1_light",
+      "test.tsx": "_react_1_light",
+      "re": "_reasonml_light",
+      "res": "_rescript_light",
+      "resi": "_rescript_1_light",
+      "r": "_R_light",
+      "rmd": "_R_light",
+      "erb": "_html_erb_light",
+      "erb.html": "_html_erb_light",
+      "html.erb": "_html_erb_light",
+      "sass": "_sass_light",
+      "springbeans": "_spring_light",
+      "slim": "_slim_light",
+      "smarty.tpl": "_smarty_light",
+      "tpl": "_smarty_light",
+      "sbt": "_sbt_light",
+      "scala": "_scala_light",
+      "sol": "_ethereum_light",
+      "styl": "_stylus_light",
+      "svelte": "_svelte_light",
+      "soql": "_db_1_light",
+      "tf": "_terraform_light",
+      "tf.json": "_terraform_light",
+      "tfvars": "_terraform_light",
+      "tfvars.json": "_terraform_light",
+      "dtx": "_tex_2_light",
+      "ins": "_tex_3_light",
+      "toml": "_config_light",
+      "twig": "_twig_light",
+      "spec.ts": "_typescript_1_light",
+      "test.ts": "_typescript_1_light",
+      "vala": "_vala_light",
+      "vapi": "_vala_light",
+      "component": "_html_3_light",
+      "vue": "_vue_light",
+      "wasm": "_wasm_light",
+      "wat": "_wat_light",
+      "pro": "_prolog_light",
+      "zig": "_zig_light",
+      "jar": "_zip_light",
+      "zip": "_zip_1_light",
+      "wgt": "_wgt_light",
+      "ai": "_illustrator_light",
+      "psd": "_photoshop_light",
+      "pdf": "_pdf_light",
+      "eot": "_font_light",
+      "ttf": "_font_light",
+      "woff": "_font_light",
+      "woff2": "_font_light",
+      "otf": "_font_light",
+      "avif": "_image_light",
+      "gif": "_image_light",
+      "jpg": "_image_light",
+      "jpeg": "_image_light",
+      "png": "_image_light",
+      "pxm": "_image_light",
+      "svg": "_svg_light",
+      "svgx": "_image_light",
+      "tiff": "_image_light",
+      "webp": "_image_light",
+      "sublime-project": "_sublime_light",
+      "sublime-workspace": "_sublime_light",
+      "mov": "_video_light",
+      "ogv": "_video_light",
+      "webm": "_video_light",
+      "avi": "_video_light",
+      "mpg": "_video_light",
+      "mp4": "_video_light",
+      "mp3": "_audio_light",
+      "ogg": "_audio_light",
+      "wav": "_audio_light",
+      "flac": "_audio_light",
+      "3ds": "_svg_1_light",
+      "3dm": "_svg_1_light",
+      "stl": "_svg_1_light",
+      "obj": "_svg_1_light",
+      "dae": "_svg_1_light",
+      "babelrc": "_babel_light",
+      "babelrc.js": "_babel_light",
+      "babelrc.cjs": "_babel_light",
+      "bazelrc": "_bazel_1_light",
+      "bowerrc": "_bower_light",
+      "dockerignore": "_docker_1_light",
+      "codeclimate.yml": "_code-climate_light",
+      "eslintrc": "_eslint_light",
+      "eslintrc.js": "_eslint_light",
+      "eslintrc.cjs": "_eslint_light",
+      "eslintrc.yaml": "_eslint_light",
+      "eslintrc.yml": "_eslint_light",
+      "eslintrc.json": "_eslint_light",
+      "eslintignore": "_eslint_1_light",
+      "firebaserc": "_firebase_light",
+      "gitlab-ci.yml": "_gitlab_light",
+      "jshintrc": "_javascript_2_light",
+      "jscsrc": "_javascript_2_light",
+      "stylelintrc": "_stylelint_light",
+      "stylelintrc.json": "_stylelint_light",
+      "stylelintrc.yaml": "_stylelint_light",
+      "stylelintrc.yml": "_stylelint_light",
+      "stylelintrc.js": "_stylelint_light",
+      "stylelintignore": "_stylelint_1_light",
+      "direnv": "_config_light",
+      "static": "_config_light",
+      "slugignore": "_config_light",
+      "tmp": "_clock_1_light",
+      "htaccess": "_config_light",
+      "key": "_lock_light",
+      "cert": "_lock_light",
+      "cer": "_lock_light",
+      "crt": "_lock_light",
+      "pem": "_lock_light",
+      "ds_store": "_ignored_light"
+    },
+    "languageIds": {
+      "bat": "_windows_light",
+      "clojure": "_clojure_light",
+      "coffeescript": "_coffee_light",
+      "jsonc": "_json_light",
+      "json": "_json_light",
+      "c": "_c_light",
+      "cpp": "_cpp_light",
+      "cuda-cpp": "_cu_light",
+      "csharp": "_c-sharp_light",
+      "css": "_css_light",
+      "dart": "_dart_light",
+      "dockerfile": "_docker_light",
+      "dotenv": "_config_light",
+      "ignore": "_git_light",
+      "fsharp": "_f-sharp_light",
+      "git-commit": "_git_light",
+      "go": "_go2_light",
+      "groovy": "_grails_light",
+      "handlebars": "_mustache_light",
+      "html": "_html_3_light",
+      "properties": "_config_light",
+      "java": "_java_light",
+      "javascriptreact": "_react_light",
+      "javascript": "_javascript_light",
+      "julia": "_julia_light",
+      "tex": "_tex_1_light",
+      "latex": "_tex_light",
+      "less": "_less_light",
+      "lua": "_lua_light",
+      "makefile": "_makefile_light",
+      "markdown": "_markdown_light",
+      "objective-c": "_c_2_light",
+      "objective-cpp": "_cpp_2_light",
+      "perl": "_perl_light",
+      "php": "_php_light",
+      "powershell": "_powershell_light",
+      "jade": "_pug_light",
+      "python": "_python_light",
+      "r": "_R_light",
+      "razor": "_html_light",
+      "ruby": "_ruby_light",
+      "rust": "_rust_light",
+      "scss": "_sass_light",
+      "search-result": "_code-search_light",
+      "shellscript": "_shell_light",
+      "sql": "_db_light",
+      "swift": "_swift_light",
+      "typescript": "_typescript_light",
+      "typescriptreact": "_react_light",
+      "xml": "_xml_light",
+      "dockercompose": "_docker_3_light",
+      "yaml": "_yml_light",
+      "argdown": "_argdown_light",
+      "bicep": "_bicep_light",
+      "elixir": "_elixir_light",
+      "elm": "_elm_light",
+      "erb": "_html_erb_light",
+      "github-issues": "_github_light",
+      "gradle": "_gradle_light",
+      "godot": "_godot_light",
+      "haml": "_haml_light",
+      "haskell": "_haskell_light",
+      "haxe": "_haxe_light",
+      "jinja": "_jinja_light",
+      "kotlin": "_kotlin_light",
+      "mustache": "_mustache_light",
+      "nunjucks": "_nunjucks_light",
+      "ocaml": "_ocaml_light",
+      "rescript": "_rescript_light",
+      "sass": "_sass_light",
+      "stylus": "_stylus_light",
+      "terraform": "_terraform_light",
+      "vala": "_vala_light",
+      "vue": "_vue_light",
+      "jsonl": "_json_light",
+      "postcss": "_css_light",
+      "django-html": "_html_3_light",
+      "blade": "_php_light"
+    }
+  }
+}
