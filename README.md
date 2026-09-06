@@ -1,6 +1,8 @@
 > **如果帮到了您，请给我点个star；**
 > **如果导出失败，请在issues反馈。**
 
+简体中文 | [English](https://github.com/wulinfa/qoder-export-tool/blob/main/README_en.md)
+
 # Qoder 会话导出工具
 
 从**正在运行的 Qoder IDE** 中读取 Agent 会话的完整内容，导出为 **JSON / Markdown / HTML** 三件套。
