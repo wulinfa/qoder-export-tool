@@ -1,4 +1,4 @@
-> **If help you, pls give me a star;**
+> **If helped you, pls give me a star;**
 > **If not work, pls feedback issues.**
 
 English | [简体中文](https://github.com/wulinfa/qoder-export-tool)
