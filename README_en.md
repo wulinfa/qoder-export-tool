@@ -1,3 +1,8 @@
+> **If help you, pls give me a star;**
+> **If not work, pls feedback issues.**
+
+English | [简体中文](https://github.com/wulinfa/qoder-export-tool)
+
 # Qoder Session Export Tool
 
 Export agent conversations from a **running Qoder IDE** into **JSON / Markdown / HTML**.
